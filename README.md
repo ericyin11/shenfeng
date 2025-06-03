@@ -20,7 +20,7 @@
     </a>
 </p>
 
-<table align="left">
+<table align="center">
     <tr>
         <th align="left">操作系统</th>
         <th align="center">适配版本</th>
