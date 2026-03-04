@@ -142,10 +142,10 @@
         <td>dropPadMode</td>
         <td>属性</td>
         <td>表示是否为 DropPad 场景，取值为 0 和 1。
-         <ui>
+         <ul>
           <li>0：表示 Dropless 场景，该场景下不校验 expertCapacity。</li>
           <li>1：表示 DropPad 场景。</li>
-         </ui>
+         </ul>
         </td>
         <td>INT</td>
         <td>-</td>
